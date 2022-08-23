@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 0_Robot_Parts
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: dd478b1c2edb14bf28575b17336fdf26, type: 3}
+    - {fileID: 2800000, guid: 192558ffedab948d8b1bdbe0eca12f8d, type: 3}
+    - {fileID: 2800000, guid: f97be5e57671847ba9f3d78ac7c72ede, type: 3}
+    - {fileID: 2800000, guid: 3a7f97b54b05c4ed5831970b3cb81e17, type: 3}
+    - {fileID: 2800000, guid: b717fec71e436460bbd1bb2b9083caed, type: 3}
+    - {fileID: 2800000, guid: 8522815ab95b841bb955ea219687d462, type: 3}
+    - {fileID: 2800000, guid: 292e29f2937f94b839d48f678025d0de, type: 3}
+    - {fileID: 2800000, guid: c526dfbb2be494743917805096eac09e, type: 3}
+    - {fileID: 2800000, guid: 1517f0728a5024aabaff818f6c98b868, type: 3}
+    - {fileID: 2800000, guid: 34fea8116d95b4d389aacaedbcf98fc2, type: 3}
+    - {fileID: 2800000, guid: 9fe1d2c61ddcd4821be97f8bdabe1615, type: 3}
+    - {fileID: 2800000, guid: 4ea4537e76ade48ccaf0142911d844fa, type: 3}
+    - {fileID: 2800000, guid: 77eb3ca4ca9de4364ac4e3fa8259a2a8, type: 3}
+    - {fileID: 2800000, guid: efc26a8235bcc429a9227e55c6ad0089, type: 3}
+    - {fileID: 2800000, guid: 4af70a2a186a8469982f6c0767e35a9b, type: 3}
+    - {fileID: 2800000, guid: bcaeb9befc59e4543b7610d73d3d68a5, type: 3}
+    - {fileID: 2800000, guid: ff5f74070a31b4411bf169df7600d24b, type: 3}
+    - {fileID: 2800000, guid: 059d6e01be92e4d769326c449ecc9607, type: 3}
+    - {fileID: 2800000, guid: b18d28a8b0263469daef69513583daf9, type: 3}
+    - {fileID: 2800000, guid: 1437698628325485ca24231af2cea144, type: 3}
+    - {fileID: 2800000, guid: a4536de295efb4bbf81b79379734d545, type: 3}
+    - {fileID: 2800000, guid: 2520c714447cc48769fe8f694e7b7b95, type: 3}
+    totalSpriteSurfaceArea: 797328
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 059d6e01be92e4d769326c449ecc9607, type: 3}
+  - {fileID: 21300000, guid: 34fea8116d95b4d389aacaedbcf98fc2, type: 3}
+  - {fileID: 21300000, guid: 1517f0728a5024aabaff818f6c98b868, type: 3}
+  - {fileID: 21300000, guid: efc26a8235bcc429a9227e55c6ad0089, type: 3}
+  - {fileID: 21300000, guid: a4536de295efb4bbf81b79379734d545, type: 3}
+  - {fileID: 21300000, guid: 292e29f2937f94b839d48f678025d0de, type: 3}
+  - {fileID: 21300000, guid: 2520c714447cc48769fe8f694e7b7b95, type: 3}
+  - {fileID: 21300000, guid: 77eb3ca4ca9de4364ac4e3fa8259a2a8, type: 3}
+  - {fileID: 21300000, guid: 3a7f97b54b05c4ed5831970b3cb81e17, type: 3}
+  - {fileID: 21300000, guid: f97be5e57671847ba9f3d78ac7c72ede, type: 3}
+  - {fileID: 21300000, guid: 1437698628325485ca24231af2cea144, type: 3}
+  - {fileID: 21300000, guid: 9fe1d2c61ddcd4821be97f8bdabe1615, type: 3}
+  - {fileID: 21300000, guid: ff5f74070a31b4411bf169df7600d24b, type: 3}
+  - {fileID: 21300000, guid: b717fec71e436460bbd1bb2b9083caed, type: 3}
+  - {fileID: 21300000, guid: b18d28a8b0263469daef69513583daf9, type: 3}
+  - {fileID: 21300000, guid: 4af70a2a186a8469982f6c0767e35a9b, type: 3}
+  - {fileID: 21300000, guid: 8522815ab95b841bb955ea219687d462, type: 3}
+  - {fileID: 21300000, guid: c526dfbb2be494743917805096eac09e, type: 3}
+  - {fileID: 21300000, guid: dd478b1c2edb14bf28575b17336fdf26, type: 3}
+  - {fileID: 21300000, guid: 4ea4537e76ade48ccaf0142911d844fa, type: 3}
+  - {fileID: 21300000, guid: bcaeb9befc59e4543b7610d73d3d68a5, type: 3}
+  - {fileID: 21300000, guid: 192558ffedab948d8b1bdbe0eca12f8d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - robot_P_10
+  - robot thigs (Red)
+  - robot joint (Grey)
+  - robot torso (Red)
+  - robot_P_11_v2
+  - robot (Grey)
+  - robot_v2
+  - robot shoulders (Grey)
+  - robot Calf (Red)
+  - robot Head (Grey)
+  - robot_P_11
+  - robot thigs (Grey)
+  - robot hand (Grey)
+  - robot Calf (Grey)
+  - robot_P_10_V2
+  - robot torso (Grey)
+  - robot Feat (Red)
+  - robot joint (Red)
+  - robot (Red)
+  - robot shoulders (Red)
+  - robot hand (Red)
+  - robot Head (Red)
+  m_RenderDataMap: {}
+  m_Tag: 0_Robot_Parts
+  m_IsVariant: 0

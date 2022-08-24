@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b3a867f5551808143bdb5b719a8b7ba9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - forklift: {instanceID: 0}
+  - UIManager: {instanceID: 0}
+  - gameData: {instanceID: 0}
+  - selectedBox: {instanceID: 0}
+  - selectedPlace: {instanceID: 0}
+  - currentPreset: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

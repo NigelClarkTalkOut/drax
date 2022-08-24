@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Game Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d35f3e23a2b5ff84594865115540ff1c, type: 3}
+    - {fileID: 102900000, guid: 2fa9ad0b59920c74abc827f70029c8cd, type: 3}
+    - {fileID: 102900000, guid: a39f4f14ffc52cb44b029d6822856c47, type: 3}
+    totalSpriteSurfaceArea: 2882876
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0b913d103c4cbf5488181e6ba68b034c, type: 3}
+  - {fileID: 21300000, guid: 3f45e350ff734dd4b9a12b6bfbf4ba79, type: 3}
+  - {fileID: 21300000, guid: 320646605c8c34a459c875043b8828c6, type: 3}
+  - {fileID: 21300000, guid: d695377000288a048a41b912bef590de, type: 3}
+  - {fileID: 21300000, guid: b596cf902ccf84539a2e7c2f0354d37f, type: 3}
+  - {fileID: 21300000, guid: 0999d641c30b99a49bcffa906a1073cc, type: 3}
+  - {fileID: 21300000, guid: e1f66e625e8a241449d38bd535cd349f, type: 3}
+  - {fileID: 21300000, guid: 08cc8533bfefc834b93c21a5339b0bd8, type: 3}
+  - {fileID: 21300000, guid: 180407736c84147f296cd624f075c36d, type: 3}
+  - {fileID: 21300000, guid: 5dc46e730f75447d4a9d83d668af605e, type: 3}
+  - {fileID: 21300000, guid: 8f85733473f51664581ab35a03176486, type: 3}
+  - {fileID: 21300000, guid: 652edf446ef479f42a9c5f251df53b8c, type: 3}
+  - {fileID: 21300000, guid: 94b17674242b6394fb77120f38611c2a, type: 3}
+  - {fileID: 21300000, guid: 1dd80ab4b87e0284c8a90796e10e4e8b, type: 3}
+  - {fileID: 21300000, guid: 2f7cf625422383b418f87e815c38d305, type: 3}
+  - {fileID: 21300000, guid: 2c8ac82548544b34c91894d7826d09ce, type: 3}
+  - {fileID: 21300000, guid: 5cc9c568ea8bbc946b87ea8145bfbbc8, type: 3}
+  - {fileID: 21300000, guid: 66200bd8d47ea0e4fb1e3bc086c62b89, type: 3}
+  - {fileID: 21300000, guid: ddd096e8e264b54458dd031cc86ab856, type: 3}
+  - {fileID: 21300000, guid: be76ad79c6685c84aac1b95a7e8ac75b, type: 3}
+  - {fileID: 21300000, guid: b885d40a11b58c5488df8b0f1a438640, type: 3}
+  - {fileID: 21300000, guid: ea140c3ab8ca89248bb9dc06206a342a, type: 3}
+  - {fileID: 21300000, guid: 6657375a39f62451f9dd95c5055b7309, type: 3}
+  - {fileID: 21300000, guid: 79e4e08a688cd3745a6bb90aa613e9d1, type: 3}
+  - {fileID: 21300000, guid: fb3a131b5ffcdab43959214c08ad03d4, type: 3}
+  - {fileID: 21300000, guid: d4db4ecbab130fb4ebd29ced4bf34935, type: 3}
+  - {fileID: 21300000, guid: 4935d91c067e04d46b3658d285aac7e9, type: 3}
+  - {fileID: 21300000, guid: f0390b1c7e6ee2b46b15bbbc482212b9, type: 3}
+  - {fileID: 21300000, guid: d564675c35058904c8aea32d50bfe114, type: 3}
+  - {fileID: 21300000, guid: 8d298b8cfc1e434468b4c1609aa40336, type: 3}
+  - {fileID: 21300000, guid: 39329f9d6026c144688c943fd50d4a92, type: 3}
+  - {fileID: 21300000, guid: ee032e0edfeba4de99d70636259fd4e6, type: 3}
+  - {fileID: 21300000, guid: 3565074ed0018429cac6da76b2d1d4b7, type: 3}
+  - {fileID: 21300000, guid: 6b5cfa7e88c973c4399ade0db304af2f, type: 3}
+  - {fileID: 21300000, guid: 5251d58fc24e39b4aa793421d050d636, type: 3}
+  - {fileID: 21300000, guid: ec8557bf97cf2a84e847ace48d6ae66b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Table_1
+  - Table_4
+  - Table_5
+  - T_box_2
+  - Delivery Tug
+  - Icon_Arm
+  - Hand_1
+  - Box_2
+  - Hand_5
+  - Hand Arm Socket
+  - Box_1
+  - Table
+  - Icon_Hand
+  - Arm_Finger 1
+  - Box
+  - Arm_Hand
+  - Arm_Incomplete
+  - Icon_Finger
+  - Icon_Joint
+  - T_box_1
+  - IMG_1
+  - Drill Machine
+  - Hand And Arm
+  - Boy
+  - road
+  - Arm_Full
+  - Hand_4
+  - Icon_UpperArm
+  - background
+  - Arm_Palm
+  - Table_3
+  - Hand_2
+  - Hand_3
+  - Icon_Sholder
+  - Table_2
+  - Img_2
+  m_RenderDataMap: {}
+  m_Tag: Game Atlas
+  m_IsVariant: 0
